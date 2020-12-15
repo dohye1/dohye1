@@ -1,4 +1,3 @@
-# DO HYE WON
 
 <h3 align="center">💻 &nbsp;Tech Stack&nbsp;💻</h3>
 <h6 align="center">Techs I can handle</h6>
