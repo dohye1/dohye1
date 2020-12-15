@@ -1,4 +1,4 @@
-<p fontSize="30px" align="center">DO HYE WON</p>
+<h1 align="center">DO HYE WON</h1>
 
 <h3 align="center">💻 &nbsp;Tech Stack&nbsp;💻</h3>
 <h6 align="center">Techs I can handle</h6>
